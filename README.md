@@ -6,7 +6,7 @@
 🖖 reliable<br><br>
 🎨 creative<br><br>
 
-# My Goal:
+# 🚀My Goal:
 for now my goal is to gain more knowledge with my programming projects and try to get a job opportunity!
 
 
