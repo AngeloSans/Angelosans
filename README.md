@@ -1,21 +1,37 @@
-# Angelo-Anjocaido13:
-🐈Hi there, I'm a guy who loves to develop applications, and I put the applications that I make on this wonderful website! I'm also trying to get into IT as a software engineer!<br><br>
+# 🐈 Hi there, I'm Angelo-Anjocaido13!
+I'm a guy who loves to develop applications, and I put the applications that I make on this wonderful website! I'm also trying to get into IT as a software engineer!
 
-# My Values:
-☔ resilience<br><br>
-🖖 reliable<br><br>
-🎨 creative<br><br>
+## ✨ Currently seeking ideas
+Can you help me answer this question? 🤔
 
-# 🚀My Goal:
-for now my goal is to gain more knowledge with my programming projects and try to get a job opportunity!
+💬 **If you use GitHub, I was wondering: what are some of the things you would want others on GitHub to know about you?**
 
+## 🏆 My Values
+- ☔ Resilience
+- 🖖 Reliability
+- 🎨 Creativity
 
-# Stats:
+## 🚀 My Goal
+For now, my goal is to gain more knowledge with my programming projects and try to get a job opportunity!
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjocaido13&theme=default_border=true&include_all_commits=false&count_private=false&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=Anjocaido13&theme=default_border=true&include_all_commits=false&count_private=false)<br/>
+## 📈 Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjocaido13&theme=default&border=true&include_all_commits=false&count_private=false&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anjocaido13&theme=default&border=true&include_all_commits=false&count_private=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anjocaido13&icon=7&color=11)](https://visitcount.itsvg.in)
 
+## 🎯 Goals for 2024
+I want to create impactful and innovative software projects. Currently, I'm exploring new technologies and frameworks to enhance my skills and bring my ideas to life. 
 
+## 💬 Wanna chat?
+📫 Feel free to reach out to me on any of the following:
+- **GitHub stuff:** I'd love to hear about your experience using GitHub and things you'd like to see changed or added to your GitHub profile.
+- **Other stuff:** Talk to me about your favorite video games, music, and any interesting tech trends!
+
+## 📚 Projects
+- [Project 1](https://github.com/Anjocaido13/project1): Brief description of the project.
+- [Project 2](https://github.com/Anjocaido13/project2): Brief description of the project.
+
+---
+
+Feel free to connect with me! Let's build something great together.
