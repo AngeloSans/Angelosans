@@ -1,4 +1,4 @@
-# 🐈 Hi there, I'm Angelo-Anjocaido13!
+# 🐈 Hi there, I'm Angelo!
 I'm a guy who loves to develop applications, and I put the applications that I make on this wonderful website! I'm also trying to get into IT as a software engineer!
 
 ## ✨ Currently seeking ideas
