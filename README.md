@@ -23,9 +23,6 @@ For now, my goal is to gain more knowledge with my programming projects and try 
 ## 🎯 Goals for 2024
 I want to create impactful and innovative software projects. Currently, I'm exploring new technologies and frameworks to enhance my skills and bring my ideas to life. 
 
-## 💬 Wanna chat?
-📫 Feel free to reach out to me on any of the following:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/angelo-santos-568b6025a/))].
 
 #### Languages and tools:
 <div align="center">
