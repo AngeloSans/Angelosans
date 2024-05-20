@@ -28,9 +28,12 @@ I want to create impactful and innovative software projects. Currently, I'm expl
 - **GitHub stuff:** I'd love to hear about your experience using GitHub and things you'd like to see changed or added to your GitHub profile.
 - **Other stuff:** Talk to me about your favorite video games, music, and any interesting tech trends!
 
-## 📚 Projects
-- [Project 1](https://github.com/Anjocaido13/project1): Brief description of the project.
-- [Project 2](https://github.com/Anjocaido13/project2): Brief description of the project.
+#### Languages and tools:
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,springboot,postgre,figma,c#,git,.net,figma,typescript&theme=dark" />
+  </a>
+</div>
 
 ---
 
