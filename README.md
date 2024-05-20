@@ -31,7 +31,7 @@ I want to create impactful and innovative software projects. Currently, I'm expl
 #### Languages and tools:
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,figma,Csharp,git,.Net,figma,typescript&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,figma,cs,git,figma,aws,docker,typescript&theme=dark" />
   </a>
 </div>
 
