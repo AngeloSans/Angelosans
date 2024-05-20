@@ -25,8 +25,7 @@ I want to create impactful and innovative software projects. Currently, I'm expl
 
 ## 💬 Wanna chat?
 📫 Feel free to reach out to me on any of the following:
-- **GitHub stuff:** I'd love to hear about your experience using GitHub and things you'd like to see changed or added to your GitHub profile.
-- **Other stuff:** Talk to me about your favorite video games, music, and any interesting tech trends!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=[(https://www.linkedin.com/in/angelo-santos-568b6025a/))].
 
 #### Languages and tools:
 <div align="center">
