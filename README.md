@@ -1,25 +1,9 @@
 # 🐈 Hi there, I'm Angelo!
-I'm a guy who loves to develop applications, and I put the applications that I make on this wonderful website! I'm also trying to get into IT as a software engineer!
 
-## ✨ Currently seeking ideas
-Can you help me answer this question? 🤔
+Hello my name is Angelo and i'm a software enginner who likes to develope some solutions in my passtime
 
-💬 **If you use GitHub, I was wondering: what are some of the things you would want others on GitHub to know about you?**
+## 🎵 Music that i like to hear
 
-## 🏆 My Values
-- ☔ Resilience
-- 🖖 Reliability
-- 🎨 Creativity
-
-## 🚀 My Goal
-For now, my goal is to gain more knowledge with my programming projects and try to get a job opportunity!
-
-
-
----
-
-## 🎯 Goals for 2024
-I want to create impactful and innovative software projects. Currently, I'm exploring new technologies and frameworks to enhance my skills and bring my ideas to life. 
 
 
 ## Languages and tools:
