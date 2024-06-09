@@ -14,8 +14,7 @@ Can you help me answer this question? 🤔
 ## 🚀 My Goal
 For now, my goal is to gain more knowledge with my programming projects and try to get a job opportunity!
 
-## 📈 Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjocaido13&theme=default&border=true&include_all_commits=false&count_private=false&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anjocaido13&theme=default&border=true&include_all_commits=false&count_private=false)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anjocaido13&icon=7&color=11)](https://visitcount.itsvg.in)
@@ -24,7 +23,7 @@ For now, my goal is to gain more knowledge with my programming projects and try 
 I want to create impactful and innovative software projects. Currently, I'm exploring new technologies and frameworks to enhance my skills and bring my ideas to life. 
 
 
-#### Languages and tools:
+## Languages and tools:
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,postgresql,figma,cs,git,figma,aws,docker,typescript&theme=dark" />
