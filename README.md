@@ -17,7 +17,6 @@ For now, my goal is to gain more knowledge with my programming projects and try 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anjocaido13&icon=7&color=11)](https://visitcount.itsvg.in)
 
 ## 🎯 Goals for 2024
 I want to create impactful and innovative software projects. Currently, I'm exploring new technologies and frameworks to enhance my skills and bring my ideas to life. 
