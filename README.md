@@ -9,7 +9,7 @@ Hello my name is Angelo and i'm a software enginner who likes to develope some s
 ## Languages and tools:
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,figma,cs,git,figma,aws,docker,typescript&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgresql,figma,cs,git,nest,tailwind,aws,docker,typescript&theme=dark" />
   </a>
 </div>
 
