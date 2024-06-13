@@ -7,7 +7,7 @@ Hello my name is Angelo and i'm a software enginner who likes to develope some s
 
 
 ## Languages and tools:
-<div >
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cs,typescript&theme=dark" />
   </a>
