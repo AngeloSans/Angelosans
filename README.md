@@ -20,7 +20,7 @@ Feel free to connect with me! Let's build something great together.
   <a href="mailto:gabrielange@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="(https://www.linkedin.com/in/angelo-santos-568b6025a/)">
+  <a href="https://www.linkedin.com/in/angelo-santos-568b6025a/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </div>
