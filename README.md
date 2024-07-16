@@ -22,13 +22,13 @@ Hello my name is Angelo and i'm a software enginner who likes to develope some s
 ## Languages and tools:
 <div align="cente">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,typescript,py,spring,postgresql,figma,git &theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,cs,typescript,py,spring,postgresql,git &theme=dark" />
   </a>
 </div>
 <div align="cente">
 
  <a href="https://skillicons.dev">  
-   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,aws,docker,net,rabbitmq &theme=dark" />
+   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,aws,docker,net,rabbitmq,kubernetes &theme=dark" />
   </a>
 </div>
 
