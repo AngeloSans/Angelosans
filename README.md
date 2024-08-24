@@ -32,7 +32,6 @@ Hello my name is Angelo and i'm a software enginner who likes to develope some s
   </a>
 </div>
 
----
 
 ## 💬Feel free to connect with me! Let's build something great together.
 <div align="left">
