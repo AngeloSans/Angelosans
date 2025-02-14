@@ -28,7 +28,7 @@ Hello my name is Angelo and i'm a software enginner who likes to develope some s
 <div align="cente">
 
  <a href="https://skillicons.dev">  
-   <img src="https://skillicons.dev/icons?i=react,tailwind,aws,docker,net,rabbitmq,kubernetes &theme=dark" />
+   <img src="https://skillicons.dev/icons?i=next,tailwind,aws,docker,net,rabbitmq,kubernetes &theme=dark" />
   </a>
 </div>
 
