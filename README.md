@@ -22,7 +22,7 @@ Hello my name is Angelo and i'm a software enginner who likes to develope some s
 ## Languages and tools:
 <div align="cente">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,typescript,mongodb,spring,postgresql,git &theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,cs,typescript,mongodb,spring,postgresql,git,python,django &theme=dark" />
   </a>
 </div>
 <div align="cente">
