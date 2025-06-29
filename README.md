@@ -20,25 +20,29 @@ Hello my name is Angelo and i'm a software enginner who likes to develope some s
 
 
 ## Languages and tools:
-<div align="cente">
+
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,typescript,mongodb,spring,postgresql,git,python,django &theme=dark" />
-  </a>
-</div>
-<div align="cente">
-
- <a href="https://skillicons.dev">  
-   <img src="https://skillicons.dev/icons?i=next,tailwind,aws,docker,net,rabbitmq,kubernetes &theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,cs,typescript,mongodb,spring,postgresql,git,python,django&theme=dark" />
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=next,tailwind,aws,docker,dotnet,rabbitmq,kubernetes&theme=dark" />
+  </a>
+</div>
 
 ## 💬Feel free to connect with me! Let's build something great together.
+
 <div align="left">
   <a href="mailto:gabrielange@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
   <a href="https://www.linkedin.com/in/angelo-santos-568b6025a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
 </div>
+
