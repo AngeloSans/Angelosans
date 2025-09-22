@@ -23,7 +23,7 @@ Hello my name is Angelo and i'm a software enginner who likes to develope some s
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,typescript,mongodb,spring,postgresql,git,python,django&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=typescript,mongodb,spring,postgresql,git,vercel,nestjs,python,django&theme=dark" />
   </a>
 </div>
 
@@ -31,7 +31,7 @@ Hello my name is Angelo and i'm a software enginner who likes to develope some s
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,tailwind,aws,docker,dotnet,rabbitmq,kubernetes&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=next,tailwind,aws,docker,rabbitmq,redis,kubernetes&theme=dark" />
   </a>
 </div>
 
